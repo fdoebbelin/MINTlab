@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+venv/
+uv.lock
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# Binder
+binder/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Data / Cache
+*.log
+*.csv
+*.dat
+*.tmp
