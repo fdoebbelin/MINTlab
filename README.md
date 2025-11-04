@@ -1,6 +1,6 @@
 # MINTlab – Interdisziplinäres, interaktives Lernen im Browser
 
-[![Starte MINTlab im Browser](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdoebbelin/MINTlab/HEAD?labpath=sample.ipynb)
+[![Starte MINTlab im Browser](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdoebbelin/MINTlab/HEAD?labpath=notebooks/00_TOC.ipynb)
 
 Willkommen bei **MINTlab**!  
 Dieses Projekt verbindet Mathematik, Informatik, Naturwissenschaften und Technik zu einem innovativen, browserbasierten Kursformat. Die Lernenden durchlaufen eine inspirierende Entdeckungsreise von mathematischen Grundlagen über informatische Werkzeuge bis zu naturwissenschaftlichen Anwendungen und technischer Konstruktion – alles direkt in interaktiven JupyterLab-Notebooks.  
